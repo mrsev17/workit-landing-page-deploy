@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a2f4831.css",
+    "main.js": "/static/js/main.5894f036.js",
+    "static/media/Manrope-Regular.ttf": "/static/media/Manrope-Regular.25323263b2aac026e777.ttf",
+    "static/media/image-hero.webp": "/static/media/image-hero.a7670418285473b2adf5.webp",
+    "static/media/image-founder.webp": "/static/media/image-founder.4bf14138ae0d658ac300.webp",
+    "static/media/dark-purple-bg.png": "/static/media/dark-purple-bg.9039aa8e1d8c0a3fb5dc.png",
+    "static/media/logo-dark.svg": "/static/media/logo-dark.ad6b9d98f0dac266885d20b92b9160e6.svg",
+    "static/media/logo-light.svg": "/static/media/logo-light.97dd94888735b443cf813528bd522f08.svg",
+    "static/media/icon-instagram.svg": "/static/media/icon-instagram.133d9df3c7ae80fcb096b58d0fd6f26e.svg",
+    "index.html": "/index.html",
+    "static/media/icon-twitter.svg": "/static/media/icon-twitter.792aca37816291c4327e79d0d80690f0.svg",
+    "static/media/bg-pattern-3.svg": "/static/media/bg-pattern-3.60897e39e078db73af9ebc8159ab0deb.svg",
+    "static/media/icon-facebook.svg": "/static/media/icon-facebook.eacb176235c044927fbc6112bf468e14.svg",
+    "main.6a2f4831.css.map": "/static/css/main.6a2f4831.css.map",
+    "main.5894f036.js.map": "/static/js/main.5894f036.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a2f4831.css",
+    "static/js/main.5894f036.js"
+  ]
+}
